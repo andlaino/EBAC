@@ -28,7 +28,7 @@ st.set_page_config(
 st.markdown("<h1 style='text-align: center; color: black;'>Previsão de renda</h1>", unsafe_allow_html=True)
 
 # Carregando o conjunto de dados
-renda = pd.read_csv('C:/Users/ander/OneDrive/Documentos/EBAC/Modulo-16/input/previsao_de_renda.csv')
+renda = pd.read_csv('./input/previsao_de_renda.csv')
 
 # Linha divisória para organização visual no Streamlit
 st.markdown("----")
@@ -60,7 +60,7 @@ def Resultado_Univariada():
 
     
 
-    renda = pd.read_csv('C:/Users/ander/OneDrive/Documentos/EBAC/Modulo-16/input/previsao_de_renda.csv')
+    renda = pd.read_csv('./input/previsao_de_renda.csv')
 
     st.write('# Análise exploratória da previsão de renda')
 

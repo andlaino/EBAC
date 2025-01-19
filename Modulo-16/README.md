@@ -4,7 +4,7 @@
 
 - Vídeo do arquivo Python com o Streamlit contendo os gráficos para análise exploratória: 
 
-
+https://github.com/user-attachments/assets/71b95666-4978-4790-9772-ed1f57727377
 
 ---
 
