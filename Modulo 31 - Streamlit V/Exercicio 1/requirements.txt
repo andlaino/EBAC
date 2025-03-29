@@ -1,6 +1,4 @@
-pandas
-streamlit
+streamlit==1.22.0
+pandas>=1.2.0
 numpy
-xlsxwriter
-openpyxl
-pillow
+
